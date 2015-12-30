@@ -1,4 +1,4 @@
-## Learning Goals
+# Learning Goals
 
 I've learnt so much since the start of Founders and Coders in May 2015! To keep up the learning I'm making a list of what I want to learn and build over the next year.....
 
@@ -36,4 +36,4 @@ Best practices I’ve learnt about:
 * Personal website
 
 
-Thanks for the inspiration @msmichellegar
+Thanks for the inspiration **@msmichellegar**
